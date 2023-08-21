@@ -17,4 +17,5 @@ public class Student {
 	private int deptId;
 	private String courseId;
 	private int addId;
+	private Address address;
 }
